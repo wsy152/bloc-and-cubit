@@ -1,4 +1,4 @@
-# learding_bloc
+# learning_bloc
 
 A new Flutter project.
 
